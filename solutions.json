@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Çözüm 1",
+        "description": "Bu, örnek bir çözüm açıklamasıdır.",
+        "username": "kullanıcı1"
+    },
+    {
+        "title": "Çözüm 2",
+        "description": "İkinci çözüm açıklaması burada.",
+        "username": "kullanıcı2"
+    }
+]
